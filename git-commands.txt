@@ -1,0 +1,7 @@
+git add .
+
+git commit -am "Your commit message here"
+
+git push
+
+git status
